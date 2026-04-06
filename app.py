@@ -7,7 +7,7 @@ model = pickle.load(open("model.pkl", "rb"))
 
 st.set_page_config(page_title="Iris Classifier", layout="centered")
 
-st.title("🌸 Iris Flower Prediction App")
+st.title("🌸 Iris Flower By Mahesh and team")
 st.write("Predict the species of Iris flower using AdaBoost model")
 
 # Input fields
